@@ -9,6 +9,8 @@ class TTexts {
   static const String submit = "Submit";
   static const String appName = "mini_karrots";
   static const String tContinue = "Continue";
+  //NEW COMMIT LAB COMP
+  //add
 
 
   // -- OnBoarding Texts
